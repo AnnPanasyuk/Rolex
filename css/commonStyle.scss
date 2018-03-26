@@ -4,6 +4,12 @@ $yellow: #ffdd00;
 $orange: #ff9600;
 $gray: #5c5c5c;
 $e7: #e7e7e7;
+
+span, button {
+  transition: .3s;
+  cursor: pointer;
+}
+
 html {
   body {
     overflow-x: hidden;

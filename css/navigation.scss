@@ -17,6 +17,7 @@ html {
           -webkit-align-self: center;
           align-self: center;
           a {
+            transition: .3s;
             font-family: OpenSans;
             display: inline-block;
             text-decoration: none;
